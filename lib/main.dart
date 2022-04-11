@@ -1,5 +1,4 @@
 import 'package:enviro/screens/index_screen.dart';
-import 'package:enviro/screens/info_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
