@@ -26,7 +26,6 @@ $ flutter pub get
 # Run the app
 $ flutter run
 ```
-
 <br>
 
 ## Key Technologies
@@ -34,3 +33,14 @@ $ flutter run
 - Flutter SDK
 
 <br>
+
+## Screenshots
+<p float="left">
+<img src="https://user-images.githubusercontent.com/76243770/162905415-1f86f2e1-de40-4cab-bb92-cb2d529c4496.jpeg" height= "500" width="250">  
+<img src="https://user-images.githubusercontent.com/76243770/162905439-eda00ff8-9824-46c4-880f-41d4c942a594.jpeg" height= "500" width="250">
+ </p>
+ <p float="left">
+<img src="https://user-images.githubusercontent.com/76243770/162905463-5b4cf482-f653-4803-9b57-e1e3c93c4608.jpeg" height= "500" width="250">
+<img src="https://user-images.githubusercontent.com/76243770/162905484-d3b72ca7-0029-458d-aa8e-8e3ee102d336.jpeg" height= "500" width="250">
+ </p>
+
